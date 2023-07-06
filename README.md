@@ -8,3 +8,4 @@ learning materials is caused by difficulties in managing priorities in asynchron
 increasing national illiteracy rate. To address this issue, a To-Do List program with a Graphical User Interface (GUI) in Python is needed to
 help students manage their priorities more effectively. The program will be described with a system plan and flowchart and will be oriented
 towards priority scales.
+![gamodo](https://github.com/tarawithoutbudimann/Gamodo-To-Do-List/assets/113746952/c1fe81aa-6260-4a52-994e-b5630e64dc24)
